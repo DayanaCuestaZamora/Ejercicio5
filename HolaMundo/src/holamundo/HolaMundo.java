@@ -26,6 +26,11 @@ public class HolaMundo {
         int e=5,f=10;
         int r2=e/f;
         System.out.println(r2);
+
+     int g=5,h=10;
+        int r3=g/h;
+        System.out.println(r3);
+    
     }
     
 }
