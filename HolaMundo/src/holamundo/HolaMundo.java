@@ -18,8 +18,10 @@ public class HolaMundo {
         System.out.println("hola mundo ");
         int a=5,b=10;
         int r=a+b;
-        
         System.out.println(r);
+        int c=5,d=10;
+        int r1=c-d;
+        System.out.println(r1);
         
     }
     
