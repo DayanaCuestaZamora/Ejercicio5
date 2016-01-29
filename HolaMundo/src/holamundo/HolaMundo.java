@@ -23,6 +23,9 @@ public class HolaMundo {
         int r1=c-d;
         System.out.println(r1);
         
+        int e=5,f=10;
+        int r2=e/f;
+        System.out.println(r2);
     }
     
 }
